@@ -19,21 +19,22 @@ fn main() {
 
     let mut answer = String::new();
     io::stdin().read_line(&mut answer);
+    let answer = answer.trim().parse::<i32>().expect("invalid input");
     greet(&answer);
      
 }
 
 }
 
-fn greet(answer: &str) {
+fn greet(answer: &i32) {
     let mut ag = Arabalar {Honda: 10000, Mercedes: 30000, Bmw: 25000, Toyota: 15000};
     println!("Honda'nın fiyatı {} $, Mercedes'nın fiyatı {} $, Bmw'nın fiyatı {} $, Toyota'nın fiyatı {} $",ag.Honda,ag.Mercedes,ag.Bmw,ag.Toyota);
     match answer {
-        "z" => {
+        1 => {
             println!("YENI ARABA FIYATLARI");
             println!("Honda'nın fiyatı {} $, Mercedes'nın fiyatı {} $, Bmw'nın fiyatı {} $, Toyota'nın fiyatı {} $",ag.Honda+5000,ag.Mercedes+5000,ag.Bmw+5000,ag.Toyota+5000);
         },
-        "i" => {
+        2 => {
             println!("YENI ARABA FIYATLARI");
             println!("Honda'nın fiyatı {} $, Mercedes'nın fiyatı {} $, Bmw'nın fiyatı {} $, Toyota'nın fiyatı {} $",ag.Honda-5000,ag.Mercedes-5000,ag.Bmw-5000,ag.Toyota-5000);
         }
