@@ -1,0 +1,11 @@
+C:\Users\egete\Desktop\projects\c deneme\rust\deneme\guessing-game\target\debug\deps\libc-ccbf3598abecdfb5.rmeta: C:\Users\egete\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.127\src\lib.rs C:\Users\egete\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.127\src\macros.rs C:\Users\egete\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.127\src\fixed_width_ints.rs C:\Users\egete\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.127\src\windows\mod.rs C:\Users\egete\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.127\src\windows\msvc\mod.rs
+
+C:\Users\egete\Desktop\projects\c deneme\rust\deneme\guessing-game\target\debug\deps\liblibc-ccbf3598abecdfb5.rlib: C:\Users\egete\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.127\src\lib.rs C:\Users\egete\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.127\src\macros.rs C:\Users\egete\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.127\src\fixed_width_ints.rs C:\Users\egete\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.127\src\windows\mod.rs C:\Users\egete\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.127\src\windows\msvc\mod.rs
+
+C:\Users\egete\Desktop\projects\c deneme\rust\deneme\guessing-game\target\debug\deps\libc-ccbf3598abecdfb5.d: C:\Users\egete\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.127\src\lib.rs C:\Users\egete\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.127\src\macros.rs C:\Users\egete\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.127\src\fixed_width_ints.rs C:\Users\egete\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.127\src\windows\mod.rs C:\Users\egete\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.127\src\windows\msvc\mod.rs
+
+C:\Users\egete\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.127\src\lib.rs:
+C:\Users\egete\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.127\src\macros.rs:
+C:\Users\egete\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.127\src\fixed_width_ints.rs:
+C:\Users\egete\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.127\src\windows\mod.rs:
+C:\Users\egete\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.127\src\windows\msvc\mod.rs:
